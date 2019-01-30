@@ -11,21 +11,21 @@ namespace GitWithVS
         static void Main(string[] args)
         {
             var list = @"===========================
-|| Dibakar Sutradhar     ||
+|| Dibakar Sutradhar     || Cumilla, Bangladesh
 ===========================
-|| S M Shahadat Hossain  ||
+|| S M Shahadat Hossain  || Cumilla, Bangladesh
 ===========================
-|| Reduanul Houque Munna ||
+|| Reduanul Houque Munna || Chattogram, Bangladesh
 ===========================
-|| Ar Rolin              ||
+|| Ar Rolin              || Dhaka, Bangladesh
 ===========================
-|| Niraj Paudel          ||
+|| Niraj Paudel          || Pokhara, Nepal
 ===========================
-|| Tanvir Faisal Moon    ||
+|| Tanvir Faisal Moon    || Cumilla, Bangladesh
 ===========================
-|| Sagar Neupane         ||
+|| Sagar Neupane         || Kathmandu, Bangladesh
 ===========================
-|| Yadav Lamechane       ||
+|| Yadav Lamechane       || Kharar, Punjab, India
 ===========================";
 
             Console.WriteLine(list);
