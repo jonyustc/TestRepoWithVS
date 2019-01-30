@@ -10,5 +10,7 @@ namespace GitWithVS
     {
         public int number { get; set; }
         public int phone { get; set; }
+        public string Name { get; set; }
+    
     }
 }
