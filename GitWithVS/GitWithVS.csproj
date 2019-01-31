@@ -45,6 +45,7 @@
     <Compile Include="myUser.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Studetn.cs" />
     <Compile Include="Test2.cs" />
   </ItemGroup>
   <ItemGroup>
